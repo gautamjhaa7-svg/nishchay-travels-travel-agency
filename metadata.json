@@ -1,0 +1,6 @@
+{
+  "name": "Nishchay Tours & Travels",
+  "description": "Meerut-based bespoke travel agency in Jagriti Vihar offering local & outstation taxis, family trips, airport transfers, and customized tour packages across North India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
